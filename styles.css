@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+body{
+    background-image: url("https://media.istockphoto.com/photos/handcuffs-and-police-report-on-the-desk-picture-id482554813?k=20&m=482554813&s=612x612&w=0&h=qj6LmuDqC6Dv5qHHPXZi6U_NKOkWsLUmfZalJOM_8-o=");
+
+    background-repeat: no-repeat;
+ background-size: 100%;
+ background-position: center;
+ border-radius: 0px;
+
+}
+
+p{
+    font-family: 'Special Elite', cursive;
+    line-height: 1.5 ;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 1.4em;
+
+    margin-left: 50%;
+    margin-right: 5%;
+    
+}
+
+
+
+    
+
+a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(128, 0, 0);
+    padding: 20px 50px;
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 50%;
+    margin-left: 20%;
+    margin-bottom: 20%;
+   
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(128, 0, 0);
+    color: white;
+  }
+
+
+p.underlinedtext{
+    margin-left: 10%;
+    margin-right: 50%;
+    
+
+}
+
+p.secondpara{
+    font-family: 'Special Elite', cursive;
+    line-height: 1.5 ;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 1.4em; 
+
+    margin-left: 50%;
+    margin-right: 5%;
+}
+
+
+
+
+h1{
+    font-family: 'Special Elite', cursive;
+    font-size: 4em;
+
+    text-align: center;
+    color:rgb(224, 32, 32);
+
+
+}
+
+
+/* You're a detective and you've been sent to do a wellware check. It is on a woman who was supposed to 
+meet her mother upstate earlier that day but she failed to show up. She has not been answering her 
+phone and her mother is worried. You were in the area so you thought you might as well swing by. 
+
+
+As you approach the house you notice that the door is cracked open. You walk in and notice 
+a lamp knocked over, a potted plant broken on the ground, and some blood on the ground indicating a 
+struggle. You need to gather more evidence, do you: go towards the kitchen or upstairs?
+
+Kitchen:As you're approaching the kitchen, you see blood is splattered on the sink. You also notice a
+knife holder with a knife missing. Suddenly you hear a sound coming from the backyard. Do you: Go 
+outside or keep investigating the home?
+    
+    Outside: There is a backdoor in the kitchen leading out to the backyard, you go to open it and 
+    notice the doorknob is wet. It is dark outside so you turn on your flashlight and look around,
+    there doesnt seem to be anything that could have made the sound but you do notice a shed.
+    Do you: investigate the shed or go back inside?
+        The shed: You walk towards the shed, looks like it was left open. You push the door open 
+        further slowly and shine your light in. Before you get the chance to look in further, suddenly
+        a man jumps out from the shadows and attacks you. You feel a sharp pain in your abdomen. You
+        look down and notice the handle of a knife portruding from your body. You pull it out, its the one missing from the
+        kitchen. The man runs off. You lose consciousness... 
+
+        Go back inside: You close the door and continue to investigate. You make your way upstairs and
+        find there to be three doors; one on your left, the other on your right, and one above which
+        appears to lead to the attic. Which one do you take? 
+            Left is the office:
+            right is the bedroom: 
+            Up in the attic: 
+
+    
+    Keep investigating:
+        When you reach the top of the stairs you come to find three doors; one on your left, one on
+        your right and one above which appears to lead to the attic. Which one do you take?
+            Left: office
+            Right: 
+            Attic:  
+    
+    
+
+Upstairs: When you reach the top of the stairs you come to find three doors; one on your left, one on
+your right and one above which appears to lead to the attic. Which one do you take?
+    Left: You open the door and are greeted by the body of the woman on the ground. Shes on her back 
+        laying in a pool of blood. It appears she's been shot multiple times. You check her pulse, miraculously
+        there is one. Immediately you call for backup and an ambulance. Backup arrives, they sweep
+        the home and find a man in the attic and one in the shed. Their weapons were confiscated; a gun and
+        a knife, the same one from the kitchen. Robbery gone wrong, they weren't expecting her to be 
+        home. The woman was taken to the hospital, shes in critical condition but there is hope she is 
+        going to make it.  
+
+    Right: You open the door and realize it is the bedroom. Nothing seems to be out of place.
+        Suddenly, your phone starts ringing. Do you take the phone call or not ?
+            Take it: You pick up, a body was found and you're needed at the scene of the crime 
+            immediately and they'll send some officers to finish the wellfare check. You leave in a
+            hurry. Later you find out that the blood you saw was not from the woman and she is still
+            missing but is now presumed murdered. The officers did not find anymore evidence and the 
+            case has gone cold. Looks like the killer got away...
+            Don't take it: You decide to let it go to voicemail, something doesn't feel right. There's 
+                nothing in the room so you decide to check the door that was on your left. 
+
+    Attic: You reach for the rope to the stairs of the attic and they come down. They're steep but you
+        manage to make it up into the attic. It is pitch black. You turn on your flashlight to try to 
+        find a lightswtich but before you could walk in further, You're falling backwards. You've been 
+        pushed. Your head hits the ground and your vision starts to blur. Through the haze you see the 
+        shape of a man on top of the attic stairs. In his hand theres a gun. You lose consciousness...  */
